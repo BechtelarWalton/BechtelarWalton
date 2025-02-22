@@ -1,4 +1,4 @@
-# 👋 Namaste, I'm Walton Bechtelar!  
+# 👋 Hello, I'm Walton Bechtelar!  
 `Code Samurai 🗡️ | Liberty University's Tech Gladiator 🛡️ | Full-Stack Developer (React/Node.js) 🌐`  
 
 ### 🛠️ **Tech Arsenal**  
